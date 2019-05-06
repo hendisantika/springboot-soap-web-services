@@ -46,4 +46,5 @@ public class WebServiceConfig {
     public XsdSchema studentsSchema() {
         return new SimpleXsdSchema(new ClassPathResource("student-details.xsd"));
     }
+
 }
