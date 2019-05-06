@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:tns="http://in28minutes.com/students"
-           targetNamespace="http://in28minutes.com/students" elementFormDefault="qualified">
+           xmlns:tns="http://hendisantika.com/students"
+           targetNamespace="http://hendisantika.com/students" elementFormDefault="qualified">
 
     <xs:element name="GetStudentDetailsRequest">
         <xs:complexType>
